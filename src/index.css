@@ -1,7 +1,7 @@
 
 * {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 :root {
@@ -28,3 +28,4 @@ a {
 .BackgroundApp {
   background: #16202c;
 }
+

@@ -3,6 +3,7 @@ import Menu from './components/Menu';
 import data from './data/dados_iniciais.json';
 import Banner from './components/BannerMain';
 import Carousel from './components/Carousel';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -37,7 +38,11 @@ function App() {
       <Carousel        
         category={data.categorias[5]}
       />
+
+      <Footer />
     </div>
+
+    
   );
 }
 
