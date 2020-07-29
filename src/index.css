@@ -29,3 +29,10 @@ a {
   background: #16202c;
 }
 
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  /* background: orange; */
+  display: flex;
+  flex-direction: column;
+}
+
