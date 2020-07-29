@@ -19,11 +19,11 @@ const Container = styled.ul`
       }
     }
 
-    .slice-prev {
+    .slick-prev {
       left: 0;
     }
 
-    .slice-next {
+    .slick-next {
       right: 16px;
     }
 `;
