@@ -4,7 +4,7 @@ import PageDefault from '../../../components/PageDefault';
 
 function CadastroCategoria() {
   return (
-    <div>
+    <>
       <PageDefault>
         <h1>Cadastro Categoria</h1>
         <form>
@@ -18,7 +18,7 @@ function CadastroCategoria() {
           Ir para a home
         </Link>
       </PageDefault>
-    </div>
+    </>
   )
 }
 
