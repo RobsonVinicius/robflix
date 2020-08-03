@@ -24,6 +24,7 @@ export const VideoCardContainer = styled.a`
   &:focus {
     opacity: .5;
     transform: scale(1.1);
+    
   }
   
   &:not(:first-child) {
