@@ -1,0 +1,40 @@
+{
+  "categorias": [
+    {
+    "id": 1,
+    "nome": "'Jackie Chan'",
+    "descricao": "'Algumas das melhores lutas de Jackie Chan'",
+    "cor": "'#4fb2ffcc'"
+    }, 
+    {
+    "id": 2,
+    "nome": "'Jet Li'",
+    "descricao": "'Jet Li - Melhores Lutas'",
+    "cor": "'#00c86f  '"
+    },
+    {
+    "id": 3,
+    "nome": "'Donnie Yen'",
+    "descricao": "'Best of Donnie Yen'",
+    "cor": "'#9cd33b'"
+    },
+    {
+    "id": 4,
+    "nome": "'Filmes'",
+    "descricao": "''",
+    "cor": "'orange'"
+    },
+    {
+    "id": 5,
+    "nome": "'Games'",
+    "descricao": "'Games 2020'",
+    "cor": "'red'"
+    },
+    {
+    "id": 6,
+    "nome": "'Aprendendo a aprender tecnologia'",
+    "descricao": "'Curso sobre aprendizado'",
+    "cor": "'#6b5be2'"
+    }
+  ]
+}
