@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from '../../assets/img/robflix-logo.png';
 import './menu.css';
-import Button from '../Button'
-//import ButtonLink from './components/ButtonLink';
+import Button from '../Button';
+// import ButtonLink from './components/ButtonLink';
 
 function Menu() {
   return (
@@ -19,4 +19,4 @@ function Menu() {
   );
 }
 
-export default Menu; //super 
+export default Menu; // super

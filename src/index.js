@@ -6,9 +6,7 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-
-
-const Pagina404 = () => (<div>Página 404</div>)
+const Pagina404 = () => (<div>Página 404</div>);
 
 /* <Route component={() => (<div>Página 404</div>)} /> */
 ReactDOM.render(
@@ -19,15 +17,10 @@ ReactDOM.render(
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
       <Route component={Pagina404} />
     </Switch>
-    
   </BrowserRouter>,
-
-
 
   // <React.StrictMode>
   //   <App />
   // </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
-
-
